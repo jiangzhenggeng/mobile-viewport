@@ -1,6 +1,8 @@
 # mobile-viewport
 移动端适配方案
 
+```javascript
+
 
 ;(function () {
     var style_str = '@charset "utf-8";html{color:#000;background:#fff;overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}' +
